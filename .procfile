@@ -1,1 +1,1 @@
-web: gunicorn wsgi: twitteranuvaad
+web: gunicorn wsgi: app
