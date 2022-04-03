@@ -1,4 +1,4 @@
-# Indic Traslation for Twitter
+# Indic Translation for Twitter
 
 Website = [Twitter Anuvaad](https://twitteranuvaad.herokuapp.com/)
 
